@@ -8,3 +8,4 @@ console.log("Yo me llamo: " +nombre+ "\nTengo: " + edad+ "\nAspiro ganar: " + su
 let masculino=true;
 let femenino=false;
 console.log("Mi genero es: "+ masculino+ " masculino ")
+
